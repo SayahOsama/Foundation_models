@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### **3️⃣ Run the Script**
 To train the model and generate predictions, run:
 ```sh
-python chronos_example.py
+python3 chronos_example.py
 ```
 
 ### **4️⃣ View Results**
